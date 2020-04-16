@@ -3,7 +3,7 @@
   "description": "Used in projects, in accordance with Excel custom format rules.",
   "version": "1.0.0",
   "author": "wornming",
-  "main":"dist/index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "private": false,
   "scripts": {
